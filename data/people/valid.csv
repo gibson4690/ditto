@@ -1,0 +1,31 @@
+a_name,a_alias,a_gender,a_nationality,a_dob,a_occupation,b_name,b_alias,b_gender,b_nationality,b_dob,b_occupation,label,scenarios
+Wu Hai,WH,male,Singapore,5/11/1952,freelance,Li Enlai,Li EL,male,PRC,15/09/1988,technician,0,
+Zheng Shen,ZS,male,Singapore,18/05/1993,accountant,Zhong Cuifen,CF Zhong,female,Singapore,20/12/1991,unemployed,0,
+Li Enlai,Li EL,male,PRC,15/09/1988,technician,Wu Hai,WH,male,Singapore,5/11/1952,freelance,0,
+Zhong Cuifen,CF Zhong,female,Singapore,20/12/1991,unemployed,Zheng Shen,ZS,male,Singapore,18/05/1993,accountant,0,
+Jin Qiaolian,Jennie Jin,female,Singapore,11/4/1960,freelance,Usaama bin Awni,-,male,Singapore,3/7/1956,technician,0,
+Qin Ya,-,female,PRC,11/3/1966,accountant,Ruwaid bin Farhaan,Farhaan Fast,male,Singapore,21/10/1978,unemployed,0,
+Usaama bin Awni,-,male,Singapore,3/7/1956,technician,Jin Qiaolian,Jennie Jin,female,Singapore,11/4/1960,freelance,0,
+Ruwaid bin Farhaan,Farhaan Fast,male,Singapore,21/10/1978,unemployed,Qin Ya,-,female,PRC,11/3/1966,accountant,0,
+Waddaah bin Abdul Maalik,Great Malik,male,Malaysia,4/11/1979,freelance,Suhaa binti Amaan,Su Amaan,female,Singapore,17/10/1987,technician,0,
+Afnaan binti Jaasir,Afnaan J,female,Singapore,21/12/1981,accountant,Ariyya binti Thaaqib,Thaaqib Ariyya,female,Malaysia,6/7/1998,unemployed,0,
+Suhaa binti Amaan,Su Amaan,female,Singapore,17/10/1987,technician,Waddaah bin Abdul Maalik,Great Malik,male,Malaysia,4/11/1979,freelance,0,
+Ariyya binti Thaaqib,Thaaqib Ariyya,female,Malaysia,6/7/1998,unemployed,Afnaan binti Jaasir,Afnaan J,female,Singapore,21/12/1981,accountant,0,
+Govalan Y.,Gov Y,male,Singapore,6/10/1999,freelance,Nuhilan F.,Nuhif,male,India,27/03/1997,technician,0,
+Pranayan A.,Prana,male,Singapore,22/09/1968,accountant,Gaayathri Y.,Gaaya,female,Singapore,1/1/1998,unemployed,0,
+Nuhilan F.,Nuhif,male,India,27/03/1997,technician,Govalan Y.,Gov Y,male,Singapore,6/10/1999,freelance,0,
+Gaayathri Y.,Gaaya,female,Singapore,1/1/1998,unemployed,Pranayan A.,Prana,male,Singapore,22/09/1968,accountant,0,
+Zhaamileey F.,Zha,female,Singapore,2/7/1971,freelance,Govalan Y.,Gov Y,male,Singapore,6/10/1999,freelance,0,
+Padmavathi V.,Padma,female,India,1/12/1977,accountant,Pranayan A.,Prana,male,Singapore,22/09/1968,accountant,0,
+Li Enlai,Li EL,male,PRC,15/09/1988,technician,Li Enlai,Li EL,male,PRC,15/09/1988,technician,1,exact
+Li Enlai,-,male,PRC,15/09/1988,technician,Li Enlai,Li EL,female,PRC,15/09/1988,technician,0,chinese name match but gender different
+Li Enlai,-,male,PRC,15/09/1988,technician,Li Enlai,Li EL,female,PRC,10/2/1967,technician,0,dob very different
+Li Enlai,-,male,PRC,15/09/1988,technician,Ye Hailai,Ye HL,female,PRC,15/09/1988,technician,0,name very different
+Zhong Cuifen,CF Zhong,female,Singapore,20/12/1991,unemployed,Zhong Cuifen,CF Zhong,female,Singapore,1991,unemployed,1,dob
+Zhong Cuifen,CF Zhong,female,Singapore,20/12/1991,unemployed,Tang Weili,Weili Tang,female,Singapore,1991,unemployed,0,similar dob but name very different
+Waddaah bin Abdul Maalik,Great Malik,male,Malaysia,4/11/1979,freelance,Abdul Maalik Waddaah ,Great Malik,male,Malaysia,4/11/1979,freelance,1,name order
+Waddaah bin Abdul Maalik,-,male,Malaysia,4/11/1979,freelance,Abdul Maalik Waddaah ,Great Malik,male,Malaysia,1979,freelance,1,name and dob combination
+Afnaan binti Jaasir,Afnaan J,female,Singapore,21/12/1981,accountant,Afnaan binti Jaasir,Afnaan J,female,Singapore,21/12/1981,finance,1,job
+Nuhilan F.,Nuhif,male,India,27/03/1997,technician,Nuhilan Fahid,Nuhif,male,India,27/03/1997,technician,1,name completeness
+Gaaya,Gaaya,female,Singapore,1/1/1998,unemployed,Gaayathri Y.,"Yone, Gaaya",female,Singapore,1/1/1998,unemployed,1,alias match
+Jennie Jin,-,female,Singapore,11/4/1960,freelance,Jin Qiaolian,Jennie Jin,female,Singapore,1960,freelance,1,"dob, alias"

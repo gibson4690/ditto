@@ -1,0 +1,7 @@
+a_name,a_alias,a_gender,a_nationality,a_dob,a_occupation,b_name,b_alias,b_gender,b_nationality,b_dob,b_occupation,label,scenario
+Jeffrey Tan,"Tan JK, Jeff Tan",male,Singapore,12/1/1955,unemployed,Tan Jian Kian Jeffrey,Jeff,male,Singapore,1955,freelance,1,name and dob combination
+Jeffrey Tan,"Tan JK, Jeff Tan",male,Singapore,12/1/1955,unemployed,Tan Jeffrey,-,male,Singapore,12/1/1955,freelance,1,name order
+Jeffrey Tan,"Tan JK, Jeff Tan",male,Singapore,12/1/1955,unemployed,Amos Tan,-,male,Singapore,12/1/1984,accountant,0,"different name, dob, and occupation"
+Jeffrey Tan,"Tan JK, Jeff Tan",male,Singapore,12/1/1955,unemployed,Thomas Anderson,Tom Anderson,male,Singapore,12/1/1955,freelance,0,different name and occupation
+Jeffrey Tan,"Tan JK, Jeff Tan",male,Singapore,12/1/1955,unemployed,John Tan Jie Koon,-,male,Singapore,1955,unemployed,0,different name and weak dob match
+Jeffrey Tan,"Tan JK, Jeff Tan",male,Singapore,12/1/1955,unemployed,Jessie Tan Jian Kian,Jess Tan,female,Singapore,12/1/1955,unemployed,0,different name and gender
