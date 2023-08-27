@@ -5,3 +5,33 @@ Jeffrey Tan,"Tan JK, Jeff Tan",male,Singapore,12/1/1955,unemployed,Amos Tan,-,ma
 Jeffrey Tan,"Tan JK, Jeff Tan",male,Singapore,12/1/1955,unemployed,Thomas Anderson,Tom Anderson,male,Singapore,12/1/1955,freelance,0,different name and occupation
 Jeffrey Tan,"Tan JK, Jeff Tan",male,Singapore,12/1/1955,unemployed,John Tan Jie Koon,-,male,Singapore,1955,unemployed,0,different name and weak dob match
 Jeffrey Tan,"Tan JK, Jeff Tan",male,Singapore,12/1/1955,unemployed,Jessie Tan Jian Kian,Jess Tan,female,Singapore,12/1/1955,unemployed,0,different name and gender
+Song Shunyuan,Shirel Song,male,Singapore,31/03/1969,unemployed,Lin Zemin,Lin ZM,male,PRC,13/07/1977,accountant,0,obviously different
+Qi Wen,QW,male,Singapore,25/01/1976,freelance,Zou Jiao,-,female,Singapore,30/09/1975,finance,0,obviously different
+Lin Zemin,Lin ZM,male,PRC,13/07/1977,accountant,Song Shunyuan,Shirel Song,male,Singapore,31/03/1969,unemployed,0,obviously different
+Zou Jiao,-,female,Singapore,30/09/1975,finance,Qi Wen,QW,male,Singapore,25/01/1976,freelance,0,obviously different
+Tan Mei,May Tan,female,Singapore,22/03/1960,unemployed,Mumtaaza binti Yoonus,-,female,Singapore,30/11/1970,freelance,0,obviously different
+Fan Meixiu,Fannie Fan,female,PRC,10/12/1979,freelance,Mu'mina binti Musaaid,Mu Mussaid,female,Singapore,10/3/1997,accountant,0,obviously different
+Izzaddeen bin Asmar,Izza Asmar,male,Singapore,31/12/1983,accountant,Reema binti Raakaan,Reema Ra,female,Malaysia,26/03/1999,finance,0,obviously different
+Afeef bin Najeeb,Afefe,male,Singapore,20/01/1987,finance,Tan Mei,May Tan,female,Singapore,22/03/1960,unemployed,0,obviously different
+Amru bin Mahdi,Mahdi Boss,male,Malaysia,29/01/1997,unemployed,Fan Meixiu,Fannie Fan,female,PRC,10/12/1979,freelance,0,obviously different
+Mumtaaza binti Yoonus,-,female,Singapore,30/11/1970,freelance,Izzaddeen bin Asmar,Izza Asmar,male,Singapore,31/12/1983,accountant,0,obviously different
+Mu'mina binti Musaaid,Mu Mussaid,female,Singapore,10/3/1997,accountant,Afeef bin Najeeb,Afefe,male,Singapore,20/01/1987,finance,0,obviously different
+Reema binti Raakaan,Reema Ra,female,Malaysia,26/03/1999,finance,Varmishan L.,Varmish ,male,Singapore,12/8/1960,freelance,0,obviously different
+Yarliniyan W.,Yarly W,male,Singapore,20/03/1981,unemployed,Lithyan F.,-,male,India,31/07/1968,accountant,0,obviously different
+Varmishan L.,Varmish ,male,Singapore,12/8/1960,freelance,Vithyarathi U.,-,female,Singapore,17/05/1993,finance,0,obviously different
+Lithyan F.,-,male,India,31/07/1968,accountant,Varmishan L.,Varmish ,male,Singapore,12/8/1960,freelance,0,obviously different
+Vithyarathi U.,-,female,Singapore,17/05/1993,finance,Shamani V.,Shami V,female,Singapore,29/04/2004,unemployed,0,obviously different
+Shamani V.,Shami V,female,Singapore,29/04/2004,unemployed,Vithyarathi U.,-,female,Singapore,17/05/1993,finance,0,obviously different
+Jayarshani H.,Jayar ,female,India,16/08/2004,freelance,Vithyarathi U.,-,female,Singapore,17/05/1993,finance,0,obviously different
+Lin Zemin,Lin ZM,male,PRC,13/07/1977,accountant,Lin Zemin,Lin ZM,male,PRC,13/07/1977,accountant,1,exact
+Zou Jiao,-,female,Singapore,30/09/1975,finance,Zou Jiao,-,male,Singapore,30/09/1975,finance,0,chinese name match but gender different
+Izzaddeen bin Asmar,Izza Asmar,male,Singapore,31/12/1983,accountant,Izzaddeen bin Asmar,Izza Asmar,male,Singapore,12/2/1974,accountant,0,dob very different
+Amru bin Mahdi,Mahdi Boss,male,Malaysia,29/01/1997,unemployed,Rahim Ahmad,-,male,Malaysia,29/01/1997,unemployed,0,name very different
+Mu'mina binti Musaaid,-,female,Singapore,10/3/1997,accountant,Mu'mina binti Musaaid,Mu Mussaid,female,Singapore,1997,accountant,1,dob
+Qi Wen,QW,male,Singapore,25/01/1976,freelance,Ting Li,-,male,Singapore,1976,freelance,0,similar dob but name very different
+Reema binti Raakaan,-,female,Malaysia,26/03/1999,finance,Raakaan Reema,Reema Ra,female,Malaysia,26/03/1999,finance,1,name order
+Shamani V.,-,female,Singapore,29/04/2004,unemployed,V Shamani,-,female,Singapore,2004,unemployed,1,name and dob combination
+Jayarshani H.,Jayar ,female,India,16/08/2004,freelance,Jayarshani H.,Jayar ,female,India,16/08/2004,unemployed,1,job
+Afeef bin Najeeb,Afefe,male,Singapore,20/01/1987,finance,Afeef N,-,male,Singapore,20/01/1987,finance,1,name completeness
+Yarly W,-,male,Singapore,20/03/1981,unemployed,Yarliniyan W.,"Yarwin, Yarly W",male,Singapore,20/03/1981,unemployed,1,alias match
+Fannie Fan,-,female,PRC,10/12/1979,freelance,Fan Meixiu,"Fan Fan, Fannie Fan",female,PRC,1979,freelance,1,"dob, alias"

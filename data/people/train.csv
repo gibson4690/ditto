@@ -5,7 +5,7 @@ Sabaah bin Naazim,Sabaah bin Naazim,male,Singapore,3/5/1998,accountant,Urwa bint
 Muhyddeen bin Kamaaluddeen,Muhyddeen bin Kamaaluddeen,male,Malaysia,3/1/1986,technician,Lateefa binti Hamdaan,Lateefa binti Hamdaan,female,Malaysia,11/5/1967,technician,0,na
 Rabi bin Ayyoob,Rabi bin Ayyoob,male,Malaysia,27/10/1995,business owner,Tao Dingxiang,Tao Dingxiang,male,PRC,14/07/1985,technician,0,na
 Zubaida binti Munsif,Zubaida binti Munsif,female,Singapore,27/01/1996,unemployed,Lateefa binti Hamdaan,Lateefa binti Hamdaan,female,Malaysia,11/5/1967,technician,0,na
-Urwa binti Shaqeeq,Urwa binti Shaqeeq,female,Singapore,2/12/1965,freelance,Cao Ju,Cao Ju,female,PRC,18/11/1962,business owner,0,na
+Urwa binti Shaqeeq,Urwa Shaqeeq,female,Singapore,2/12/1965,freelance,Cao Ju,Cao Ju,female,PRC,18/11/1962,business owner,0,na
 Tamanna binti Taaj,Tamanna binti Taaj,female,Singapore,6/6/1966,accountant,Muhyddeen bin Kamaaluddeen,Muhyddeen bin Kamaaluddeen,male,Malaysia,3/1/1986,technician,0,na
 Lateefa binti Hamdaan,Lateefa binti Hamdaan,female,Malaysia,11/5/1967,technician,Long Qingshan,Long Qingshan,male,Singapore,25/12/1984,accountant,0,na
 Randa binti Adeeb,-,female,Malaysia,2/9/1974,business owner,Zubaida binti Munsif,Zubaida binti Munsif,female,Singapore,27/01/1996,unemployed,0,na
@@ -31,14 +31,18 @@ Thanushara A.,-,female,India,28/10/1964,technician,Zhou Liang,Zhou Liang,male,Si
 Jenna K.,-,female,India,14/04/1968,business owner,Urwa binti Shaqeeq,Urwa binti Shaqeeq,female,Singapore,2/12/1965,freelance,0,na
 Wu Meixiang,-,female,Singapore,11/9/1957,freelance,Wu Meixiang,Wu Meixiang,female,Singapore,11/9/1957,freelance,1,exact
 Wu Meixiang,-,female,Singapore,11/9/1957,freelance,Wu Meixiang,Wu Meixiang,male,Singapore,11/9/1957,freelance,0,chinese name match but gender different
+Cao Ju,-,female,PRC,18/11/1962,business owner,Cao Ju,-,male,PRC,18/11/1962,business owner,0,chinese name match but gender different
+Yang Xue,-,male,Singapore,25/06/1959,accountant,Yang Xue,-,female,Singapore,25/06/1959,accountant,0,chinese name match but gender different
 Wu Meixiang,-,female,Singapore,11/9/1957,freelance,Wu Meixiang,Wu Meixiang,female,Singapore,25/1/2003,freelance,0,dob different
+Thaanyen B.,-,male,India,19/10/1994,technician,Thaanyen B.,-,male,India,17/6/1966,technician,0,dob different
+Urwa binti Shaqeeq,-,female,Singapore,2/12/1965,freelance,Urwa binti Shaqeeq,Urwa Shaqeeq,female,Singapore,24/9/1985,freelance,0,dob different
 Wu Meixiang,-,female,Singapore,11/9/1957,freelance,Wu Weitang,Wu Weitang,female,Singapore,11/9/1957,freelance,0,name very different
 Tamanna binti Taaj,-,female,Singapore,6/6/1966,accountant,Tamanna binti Taaj,Tamanna binti Taaj,female,Singapore,1966,accountant,1,dob
 Tamanna binti Taaj,-,female,Singapore,6/6/1966,accountant,Taman binti Abdul,Taman binti Abdul,female,Singapore,1966,accountant,0,similar dob but name very different
 Tao Dingxiang,-,male,PRC,14/07/1985,technician,Dingxiang Tao,Dingxiang Tao,male,PRC,14/07/1985,technician,1,name order
 Urwa binti Shaqeeq,-,female,Singapore,2/12/1965,freelance,Urwa binti Shaqeeq,Urwa binti Shaqeeq,female,Singapore,2/12/1965,unemployed,1,job
 Dushyant K.,-,male,Singapore,29/10/1992,accountant,Dushyant Kumar,Dushyant Kumar,male,Singapore,29/10/1992,accountant,1,name completeness
-Sabaah N,-,male,Singapore,3/5/1998,accountant,Sabaah bin Naazim,,male,Singapore,1998,accountant,1,name dob
+Sabaah N,-,male,Singapore,3/5/1998,accountant,Sabaah bin Naazim,,male,Singapore,1998,accountant,1,name dob combination
 Naazim Sabaah ,-,male,Singapore,3/5/1998,accountant,Sabaah bin Naazim,,male,Singapore,1998,accountant,1,name dob combination
 Muddeen,-,male,Malaysia,3/1/1986,technician,Muhyddeen bin Kamaaluddeen,Muddeen,male,Malaysia,3/1/1986,technician,1,alias match
 Thaanyen B.,-,male,India,19/10/1994,technician,Balamurukan B.,"Titantic,Thaanyen B.",male,India,19/10/1994,technician,1,alias match
