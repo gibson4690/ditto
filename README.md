@@ -16,6 +16,8 @@ For more technical details, see the [Deep Entity Matching with Pre-Trained Langu
 
 Install required packages
 ```
+conda conda create -n myenv python=3.7.7
+conda activate myenv
 conda install -c conda-forge nvidia-apex
 pip install -r requirements.txt
 python -m spacy download en_core_web_lg
